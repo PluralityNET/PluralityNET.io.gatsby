@@ -18,7 +18,7 @@
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-inline-svg": "^0.0.8",
     "gatsby-transformer-sharp": "^2.3.16",
-    "gatsby-transformer-yaml": "^2.11.0",
+    "gatsby-transformer-yaml": "^5.5.0",
     "numeral": "^2.0.6",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
